@@ -1,0 +1,318 @@
+[2016-08-11 12:06:41] production.DEBUG: Message-ID: <3d1d98d0944dddc4683f33abfc119ead@localhost>
+Date: Thu, 11 Aug 2016 12:06:41 +0000
+Subject: Synergia-resort. Reserva confirmada.
+From: Synergia-resort <cristina@synergia.es>
+To: jose1561991@gmail.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+
+<html lang="en-US">
+
+
+<head>
+    <meta charset="utf-8">
+</head>
+
+<body>
+
+<p>
+    Su reserva a sido aceptada y está a la espera de pago. <br>
+</p>
+    <hr>
+        <p>Datos de la Reserva:</p>
+    <hr>
+
+
+    <p>Nombre: José Antonio Fernandez Bueno</p>
+    <p>Fecha Nacimiento: 2016-08-12</p>
+    <p>País: España</p>
+    <p>Teléfono: +34630707634</p>
+    <p>Adultos: 2</p>
+    <p>Niños: 0</p>
+    <p>Llegada: 16/04/2017</p>
+    <p>Salida: 23/04/2017</p>
+    <p>Precio: 1&euro;</p>
+
+
+    <p>
+        Vaya al siguiente link para realizar el pago.
+        http://localhost/synergia-resort/synergia/Reservar/Pago/57ac6918112e8
+        Gracias por reservar en nuestro apartamento. <br>
+
+    </p>
+    
+
+</body>
+
+
+</html> [] []
+[2016-08-11 12:13:18] production.DEBUG: Message-ID: <631d490d4676128f63ba0430e8c900b5@localhost>
+Date: Thu, 11 Aug 2016 12:13:18 +0000
+Subject: Synergia-resort. Solicitud de reserva.
+From: Synergia-resort <cristina@synergia.es>
+To: jfernandez@10code.es
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+
+<html lang="en-US">
+
+
+<head>
+    <meta charset="utf-8">
+</head>
+
+<body>
+
+
+    <hr>
+        <p>Datos de la solicitud de reserva:</p>
+    <hr>
+
+
+    <p>Nombre: José Antonio Fernandez Bueno</p>
+    <p>Fecha Nacimiento: 16-08-12</p>
+    <p>País: España</p>
+    <p>Teléfono: +34630707634</p>
+    <p>Adultos: 1</p>
+    <p>Niños: 0</p>
+    <p>Llegada: 16/04/2017</p>
+    <p>Salida: 23/04/2017</p>
+    <p>Precio: 1342&euro;</p>
+
+
+    <p>
+        Gracias por realizar la solicitud de reserva para nuestro apartamento. <br>
+        Nos pondremos en contacto con usted en el menor tiempo posible.
+    </p>
+    
+
+</body>
+
+
+</html> [] []
+[2016-08-11 12:13:18] production.DEBUG: Message-ID: <d7149b42447ae2191446142f0730479a@localhost>
+Date: Thu, 11 Aug 2016 12:13:18 +0000
+Subject: Synergia-resort. Solicitud de reserva.
+From: Synergia-resort <cristina@synergia.es>
+To: cristina@synergia.es
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+
+<html lang="en-US">
+
+
+<head>
+    <meta charset="utf-8">
+</head>
+
+<body>
+<p>
+    Se ha realizado la siguiente solicitud de reserva a traves de la plataforma web. <br>
+</p>
+
+    <hr>
+        <p>Datos de la solicitud de reserva:</p>
+    <hr>
+
+
+    <p>Nombre: José Antonio Fernandez Bueno</p>
+    <p>Email: jfernandez@10code.es</p>
+    <p>Fecha Nacimiento: 16-08-12</p>
+    <p>País: España</p>
+    <p>Teléfono: +34630707634</p>
+    <p>Adultos: 1</p>
+    <p>Niños: 0</p>
+    <p>Llegada: 16/04/2017</p>
+    <p>Salida: 23/04/2017</p>
+    <p>Precio: 1342&euro;</p>
+
+
+
+<p>
+ Puede acceder al historico de reservas a traves del siguiente enlace: http://localhost/synergia-resort/synergia/admin/reservas
+</p>
+
+</body>
+
+
+</html> [] []
+[2016-08-11 12:13:37] production.DEBUG: Message-ID: <09a0705bd65812a523db0daa89d120d9@localhost>
+Date: Thu, 11 Aug 2016 12:13:37 +0000
+Subject: Synergia-resort. Reserva confirmada.
+From: Synergia-resort <cristina@synergia.es>
+To: jfernandez@10code.es
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+
+<html lang="en-US">
+
+
+<head>
+    <meta charset="utf-8">
+</head>
+
+<body>
+
+<p>
+    Su reserva a sido aceptada y está a la espera de pago. <br>
+</p>
+    <hr>
+        <p>Datos de la Reserva:</p>
+    <hr>
+
+
+    <p>Nombre: José Antonio Fernandez Bueno</p>
+    <p>Fecha Nacimiento: 2016-08-12</p>
+    <p>País: España</p>
+    <p>Teléfono: +34630707634</p>
+    <p>Adultos: 1</p>
+    <p>Niños: 0</p>
+    <p>Llegada: 16/04/2017</p>
+    <p>Salida: 23/04/2017</p>
+    <p>Precio: 1342&euro;</p>
+
+
+    <p>
+        Vaya al siguiente link para realizar el pago.
+        http://localhost/synergia-resort/synergia/Reservar/Pago/57ac6bde8f3a9
+        Gracias por reservar en nuestro apartamento. <br>
+
+    </p>
+    
+
+</body>
+
+
+</html> [] []
+[2016-08-11 12:18:01] production.DEBUG: Message-ID: <ba8610c776c978516ffd4682d0b8202e@localhost>
+Date: Thu, 11 Aug 2016 12:18:01 +0000
+Subject: Synergia-resort. Reserva confirmada.
+From: Synergia-resort <cristina@synergia.es>
+To: jfernandez@10code.es
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+
+<html lang="en-US">
+
+
+<head>
+    <meta charset="utf-8">
+</head>
+
+<body>
+
+<p>
+    Su reserva a sido aceptada y está a la espera de pago. <br>
+</p>
+    <hr>
+        <p>Datos de la Reserva:</p>
+    <hr>
+
+
+    <p>Nombre: José Antonio Fernandez Bueno</p>
+    <p>Fecha Nacimiento: 2016-08-12</p>
+    <p>País: España</p>
+    <p>Teléfono: +34630707634</p>
+    <p>Adultos: 1</p>
+    <p>Niños: 0</p>
+    <p>Llegada: 16/04/2017</p>
+    <p>Salida: 23/04/2017</p>
+    <p>Precio: 1342&euro;</p>
+
+
+    <p>
+        Vaya al siguiente link para realizar el pago.
+        http://localhost/synergia-resort/synergia/Reservar/Pago/57ac6bde8f3a9
+        Gracias por reservar en nuestro apartamento. <br>
+
+    </p>
+    
+
+</body>
+
+
+</html> [] []
+[2016-08-11 12:23:16] production.ERROR: 500 - Price is not a valid numeric value @ /Reservar/Pago/57ac6bde8f3a9
+exception 'InvalidArgumentException' with message 'Price is not a valid numeric value' in C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\paypal\rest-api-sdk-php\lib\PayPal\Validation\NumericValidator.php:23
+Stack trace:
+#0 C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\paypal\rest-api-sdk-php\lib\PayPal\Api\Item.php(130): PayPal\Validation\NumericValidator::validate('1342,86', 'Price')
+#1 C:\xampp\htdocs\synergia-resort\synergia\laravel\app\controllers\ReservaController.php(270): PayPal\Api\Item->setPrice('1342,86')
+#2 [internal function]: ReservaController->getRealizarPago('57ac6bde8f3a9')
+#3 C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\laravel\framework\src\Illuminate\Routing\Controller.php(231): call_user_func_array(Array, Array)
+#4 C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\laravel\framework\src\Illuminate\Routing\ControllerDispatcher.php(93): Illuminate\Routing\Controller->callAction('getRealizarPago', Array)
+#5 C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\laravel\framework\src\Illuminate\Routing\ControllerDispatcher.php(62): Illuminate\Routing\ControllerDispatcher->call(Object(ReservaController), Object(Illuminate\Routing\Route), 'getRealizarPago')
+#6 C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(967): Illuminate\Routing\ControllerDispatcher->dispatch(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request), 'ReservaControll...', 'getRealizarPago')
+#7 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}('57ac6bde8f3a9')
+#8 C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\laravel\framework\src\Illuminate\Routing\Route.php(109): call_user_func_array(Object(Closure), Array)
+#9 C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1033): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#10 C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1001): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#11 C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(775): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#12 C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(745): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#13 C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\laravel\framework\src\Illuminate\Session\Middleware.php(72): Illuminate\Foundation\Application->handle(Object(Illuminate\Http\Request), 1, true)
+#14 C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\laravel\framework\src\Illuminate\Cookie\Queue.php(47): Illuminate\Session\Middleware->handle(Object(Illuminate\Http\Request), 1, true)
+#15 C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\laravel\framework\src\Illuminate\Cookie\Guard.php(51): Illuminate\Cookie\Queue->handle(Object(Illuminate\Http\Request), 1, true)
+#16 C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\stack\builder\src\Stack\StackedHttpKernel.php(23): Illuminate\Cookie\Guard->handle(Object(Illuminate\Http\Request), 1, true)
+#17 C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(641): Stack\StackedHttpKernel->handle(Object(Illuminate\Http\Request))
+#18 C:\xampp\htdocs\synergia-resort\synergia\index.php(471): Illuminate\Foundation\Application->run()
+#19 {main} [] []
+[2016-08-11 12:23:21] production.ERROR: 500 - Price is not a valid numeric value @ /Reservar/Pago/57ac6bde8f3a9
+exception 'InvalidArgumentException' with message 'Price is not a valid numeric value' in C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\paypal\rest-api-sdk-php\lib\PayPal\Validation\NumericValidator.php:23
+Stack trace:
+#0 C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\paypal\rest-api-sdk-php\lib\PayPal\Api\Item.php(130): PayPal\Validation\NumericValidator::validate('1342,86', 'Price')
+#1 C:\xampp\htdocs\synergia-resort\synergia\laravel\app\controllers\ReservaController.php(270): PayPal\Api\Item->setPrice('1342,86')
+#2 [internal function]: ReservaController->getRealizarPago('57ac6bde8f3a9')
+#3 C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\laravel\framework\src\Illuminate\Routing\Controller.php(231): call_user_func_array(Array, Array)
+#4 C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\laravel\framework\src\Illuminate\Routing\ControllerDispatcher.php(93): Illuminate\Routing\Controller->callAction('getRealizarPago', Array)
+#5 C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\laravel\framework\src\Illuminate\Routing\ControllerDispatcher.php(62): Illuminate\Routing\ControllerDispatcher->call(Object(ReservaController), Object(Illuminate\Routing\Route), 'getRealizarPago')
+#6 C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(967): Illuminate\Routing\ControllerDispatcher->dispatch(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request), 'ReservaControll...', 'getRealizarPago')
+#7 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}('57ac6bde8f3a9')
+#8 C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\laravel\framework\src\Illuminate\Routing\Route.php(109): call_user_func_array(Object(Closure), Array)
+#9 C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1033): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#10 C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1001): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#11 C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(775): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#12 C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(745): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#13 C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\laravel\framework\src\Illuminate\Session\Middleware.php(72): Illuminate\Foundation\Application->handle(Object(Illuminate\Http\Request), 1, true)
+#14 C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\laravel\framework\src\Illuminate\Cookie\Queue.php(47): Illuminate\Session\Middleware->handle(Object(Illuminate\Http\Request), 1, true)
+#15 C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\laravel\framework\src\Illuminate\Cookie\Guard.php(51): Illuminate\Cookie\Queue->handle(Object(Illuminate\Http\Request), 1, true)
+#16 C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\stack\builder\src\Stack\StackedHttpKernel.php(23): Illuminate\Cookie\Guard->handle(Object(Illuminate\Http\Request), 1, true)
+#17 C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(641): Stack\StackedHttpKernel->handle(Object(Illuminate\Http\Request))
+#18 C:\xampp\htdocs\synergia-resort\synergia\index.php(471): Illuminate\Foundation\Application->run()
+#19 {main} [] []
+[2016-08-11 12:23:39] production.ERROR: 500 - Price is not a valid numeric value @ /Reservar/Pago/57ac6bde8f3a9
+exception 'InvalidArgumentException' with message 'Price is not a valid numeric value' in C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\paypal\rest-api-sdk-php\lib\PayPal\Validation\NumericValidator.php:23
+Stack trace:
+#0 C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\paypal\rest-api-sdk-php\lib\PayPal\Api\Item.php(130): PayPal\Validation\NumericValidator::validate('1342,86', 'Price')
+#1 C:\xampp\htdocs\synergia-resort\synergia\laravel\app\controllers\ReservaController.php(270): PayPal\Api\Item->setPrice('1342,86')
+#2 [internal function]: ReservaController->getRealizarPago('57ac6bde8f3a9')
+#3 C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\laravel\framework\src\Illuminate\Routing\Controller.php(231): call_user_func_array(Array, Array)
+#4 C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\laravel\framework\src\Illuminate\Routing\ControllerDispatcher.php(93): Illuminate\Routing\Controller->callAction('getRealizarPago', Array)
+#5 C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\laravel\framework\src\Illuminate\Routing\ControllerDispatcher.php(62): Illuminate\Routing\ControllerDispatcher->call(Object(ReservaController), Object(Illuminate\Routing\Route), 'getRealizarPago')
+#6 C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(967): Illuminate\Routing\ControllerDispatcher->dispatch(Object(Illuminate\Routing\Route), Object(Illuminate\Http\Request), 'ReservaControll...', 'getRealizarPago')
+#7 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}('57ac6bde8f3a9')
+#8 C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\laravel\framework\src\Illuminate\Routing\Route.php(109): call_user_func_array(Object(Closure), Array)
+#9 C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1033): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#10 C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1001): Illuminate\Routing\Router->dispatchToRoute(Object(Illuminate\Http\Request))
+#11 C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(775): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#12 C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(745): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#13 C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\laravel\framework\src\Illuminate\Session\Middleware.php(72): Illuminate\Foundation\Application->handle(Object(Illuminate\Http\Request), 1, true)
+#14 C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\laravel\framework\src\Illuminate\Cookie\Queue.php(47): Illuminate\Session\Middleware->handle(Object(Illuminate\Http\Request), 1, true)
+#15 C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\laravel\framework\src\Illuminate\Cookie\Guard.php(51): Illuminate\Cookie\Queue->handle(Object(Illuminate\Http\Request), 1, true)
+#16 C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\stack\builder\src\Stack\StackedHttpKernel.php(23): Illuminate\Cookie\Guard->handle(Object(Illuminate\Http\Request), 1, true)
+#17 C:\xampp\htdocs\synergia-resort\synergia\laravel\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(641): Stack\StackedHttpKernel->handle(Object(Illuminate\Http\Request))
+#18 C:\xampp\htdocs\synergia-resort\synergia\index.php(471): Illuminate\Foundation\Application->run()
+#19 {main} [] []

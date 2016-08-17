@@ -1,0 +1,83 @@
+<?php /* Web site Title */ ?>
+<?php $__env->startSection('title'); ?>
+    Reservas :: @parent
+<?php $__env->stopSection(); ?>
+
+<?php $__env->startSection('keywords'); ?>Entrys administration <?php $__env->stopSection(); ?>
+<?php $__env->startSection('author'); ?>Laravel 4 Bootstrap Starter SIte <?php $__env->stopSection(); ?>
+<?php $__env->startSection('description'); ?>Entrys administration index <?php $__env->stopSection(); ?>
+
+<?php /* Content */ ?>
+<?php $__env->startSection('content'); ?>
+    <div class="page-header">
+        <h3>
+            Reservas
+
+            <div class="pull-right">
+                <a href="<?php echo e(URL::to('admin/reservas/create')); ?>" class="btn btn-small btn-info iframe"><span class="glyphicon glyphicon-plus-sign"></span> Nueva reserva</a>
+            </div>
+        </h3>
+    </div>
+
+    <table id="reservas" class="table table-striped table-hover">
+        <thead>
+        <tr>
+
+            <th class="fit">Llegada</th>
+            <th class="fit">Salida</th>
+            <th class="fit">Teléfono</th>
+            <th class="fit">Email</th>
+            <th class="fit">Nombre</th>
+            <th class="fit">Pagado</th>
+            <th class="fit"><?php echo e(Lang::get('table.actions')); ?></th>
+        </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+<?php $__env->stopSection(); ?>
+
+<?php $__env->startSection('styles'); ?>
+    <style>
+    .table td.fit,
+    .table th.fit {
+    white-space: nowrap;
+    width: 1%;
+    }
+    </style>
+<?php $__env->stopSection(); ?>
+<?php /* Scripts */ ?>
+<?php $__env->startSection('scripts'); ?>
+    <script type="text/javascript">
+        var oTable;
+        $(document).ready(function() {
+            oTable = $('#reservas').dataTable( {
+                "autoWidth": true,
+                "sDom": "<'row'<'col-md-6'l><'col-md-6'f>r>t<'row'<'col-md-6'i><'col-md-6'p>>",
+                "sPaginationType": "bootstrap",
+                "oLanguage": {
+                    "sLengthMenu": "_MENU_ registros por página"
+                },
+                "bProcessing": true,
+                "bServerSide": true,
+                "sAjaxSource": "<?php echo URL::to('admin/reservas/data'); ?>",
+                "fnDrawCallback": function ( oSettings ) {
+                    $(".iframe").colorbox({iframe:true, width:"80%", height:"80%",
+                        onLoad: function(){
+                            $('#cboxClose').remove();
+                        }});
+                }
+            });
+        });
+
+    </script>
+    <script>
+        window.addEventListener('load', function(){
+            $('tr').addClass('fit');
+            $('td').addClass('fit');
+            $('table').addClass('fit');
+        }, false);
+
+    </script>
+<?php $__env->stopSection(); ?>
+<?php echo $__env->make('admin.layouts.default', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>

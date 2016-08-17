@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+
+<html lang="en-US">
+
+
+<head>
+    <meta charset="utf-8">
+</head>
+
+<body>
+
+<p>
+   Pago de Reserva confirmado.<br>
+</p>
+    <hr>
+        <p>Datos de la Reserva:</p>
+    <hr>
+
+
+    <p>Nombre: <?php echo $data->nombre; ?></p>
+    <p>Email: <?php echo $data->email; ?></p>
+    <p>Fecha Nacimiento: <?php echo $data->fecha_nacimiento; ?></p>
+    <p>País: <?php echo $data->pais_nacionalidad; ?></p>
+    <p>Teléfono: <?php echo $data->telefono; ?></p>
+    <p>Adultos: <?php echo $data->adultos; ?></p>
+    <p>Niños: <?php echo $data->ninos; ?></p>
+    <p>Llegada: <?php echo date('d/m/Y',strtotime($data->fecha_ini)); ?></p>
+    <p>Salida: <?php echo date('d/m/Y',strtotime($data->fecha_fin)); ?></p>
+    <p>Precio: <?php echo $data->precio; ?>&euro; IVA incluido.</p>
+
+<p>
+    Puede acceder al historico de reservas a traves del siguiente enlace: <?php echo URL::to('admin/reservas'); ?>
+
+</p>
+    
+
+</body>
+
+
+</html>

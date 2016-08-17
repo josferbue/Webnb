@@ -1,0 +1,5 @@
+[2016-07-14 11:12:58] production.ERROR: 500 - Call to undefined function vardump() @ /
+exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Call to undefined function vardump()' in C:\xampp\htdocs\synergia-resort\synergia\laravel\app\controllers\WelcomeController.php:113
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
