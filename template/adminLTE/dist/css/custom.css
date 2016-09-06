@@ -1,0 +1,23 @@
+.main-header .navbar, .main-header li.user-header{
+    background-color: #ff6e73 !important;
+}
+
+.main-header .sidebar-toggle:hover, .main-header .logo{
+    background-color: #c04e52 !important;
+}
+
+span.label{
+    width: 100%;
+    display: inline-block;
+    padding: 7px;
+    font-size: 0.9em;
+}
+
+.dataTables_processing{
+    background: none !important;
+}
+
+.sidebar-menu .fa{
+    width: 20px;
+    text-align: center;
+}

@@ -32,6 +32,12 @@ class CreateGaleriaTable extends Migration {
 	 */
 	public function down()
 	{
+        //Borramos todos las imágenes de la galería
+
+        Galeria::borrarGaleria();
+
+        //Borramos la tabla que almacena datos de la galeria
+
         Schema::drop('galeria');
 	}
 
